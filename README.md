@@ -1,5 +1,6 @@
 # javascript-class
-# Class–1: Button Click করলে Color Change (JavaScript + DOM)
+
+## Class–1: Button Click করলে Color Change (JavaScript + DOM)
 
 এই ক্লাসে আমরা শিখবো কীভাবে HTML এর একটি **button** এ click করলে  
 JavaScript ব্যবহার করে **background color change** করা যায়।
@@ -7,3 +8,10 @@ JavaScript ব্যবহার করে **background color change** করা
 ---
 
 ## 📁 File Structure
+
+- javascript-class  
+  - js-class-1  
+    - index.html  
+    - style.css  
+    - index.js  
+
